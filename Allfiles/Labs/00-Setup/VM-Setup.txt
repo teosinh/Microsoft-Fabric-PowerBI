@@ -6,6 +6,7 @@ In order to complete certain labs, you need access to a SQL Server instance to r
 
 Restore AdventureWorksDW2022.bak database to SQL Server localhost.
 
-Install the most recent version of Power BI Desktop application. 
+Install the most recent version of Power BI Desktop application.
+Install DAX Studio & Table Editor plug-ins as well.
 
 
